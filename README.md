@@ -1,5 +1,5 @@
 # WeatherApp_ReactNative
-This is an example app made through Fullstack React Native book
+This is an example app made through Fullstack React Native book.
 App uses metaweather API for fetching weather info.
 
 ##Screenshots:
